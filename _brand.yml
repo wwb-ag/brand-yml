@@ -1,0 +1,83 @@
+meta:
+  name: 
+    full: Wyss Waffen Burgdorf
+    short: WWB
+  links:
+    home: https://wysswaffen.ch
+    github: https://github.com/wwb-ag
+    facebook: https://www.facebook.com/wysswaffen
+    instagram: https://www.instagram.com/wysswaffen
+    youtube: https://www.youtube.com/@wwb-ag
+  founded: 1960
+
+logo:
+  images:
+    icon: 
+      path: brand/images/wwb-icon.png
+      alt: "WWB AG icon"
+    icon-white: 
+      path: brand/images/wwb-icon-white.png
+      alt: "WWB AG icon"
+    logo-primary: 
+      path: brand/images/wwb-logo-primary.png
+      alt: "WWB AG logo without text"
+    logo-primary-white: 
+      path: brand/images/wwb-logo-primary-white.png
+      alt: "WWB AG logo without text"
+  small: 
+    light: icon
+    dark: icon-white
+  medium: 
+    light: logo-primary
+    dark: logo-primary-white
+  large: 
+    light: logo-primary
+    dark: logo-primary-white
+
+color:
+  palette:
+    black: "#000000"
+    gray-dark: "#090909"
+    gray-medium: "#757575"
+    gray-light: "#BDBDBD"
+    white: "#FFFFFF"
+    red: "#DF0000"
+    gold: "#FFD700"
+    green: "#65a30d"
+  foreground: black
+  background: white  
+  primary: red
+  secondary: gold
+  tertiary: green
+  light: white
+  dark: gray-dark
+
+typography:
+  fonts:
+    - family: Jost
+      source: google
+    - family: Roboto Mono
+      source: google
+  base:
+    color: foreground
+    family: Jost
+    weight: 300
+    style: normal
+    line-height: 1.62
+    size: 1em
+  link:
+    color: secondary
+    family: Jost
+    weight: 400
+    style: normal
+    size: 1em  
+    decoration: none
+  headings:
+    color: foreground
+    family: Jost
+    weight: 400
+    style: normal
+    size: 2em
+  monospace:
+    family: Roboto Mono
+    size: 1em
