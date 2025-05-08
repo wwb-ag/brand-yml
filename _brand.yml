@@ -13,17 +13,17 @@ meta:
 logo:
   images:
     icon: 
-      path: brand/images/wwb-icon.png
+      path: brand/images/wwb-icon.svg
       alt: "WWB AG icon"
     icon-white: 
-      path: brand/images/wwb-icon-white.png
-      alt: "WWB AG icon"
+      path: brand/images/wwb-icon-white.svg
+      alt: "WWB AG icon white"
     logo-primary: 
-      path: brand/images/wwb-logo-primary.png
+      path: brand/images/wwb-logo-primary.svg
       alt: "WWB AG logo without text"
     logo-primary-white: 
-      path: brand/images/wwb-logo-primary-white.png
-      alt: "WWB AG logo without text"
+      path: brand/images/wwb-logo-primary-white.svg
+      alt: "WWB AG logo without text white"
   small: 
     light: icon
     dark: icon-white
